@@ -1,0 +1,20 @@
+git clone https://github.com/fassergey/MedicinesComparison.git
+
+<add name="MongoDb" connectionString="mongodb://localhost:27017/Medicines" />
+
+PharmacoGroups:
+jQuery('ul.ul-menu0>li>a');
+for(let i=0; i<links.length; i++) { 		
+	console.log(jQuery(links[i]).attr('href')) 
+}
+
+Pages:
+jQuery('index:last').siblings('a')
+
+Medicine:
+jQuery('index>table:last>tbody>tr') : 2 rows per medicine
+
+jQuery('div.content-wrapper td:contains("Назва")').next()
+jQuery('div.content-wrapper td:contains("Міжнародна непатентована назва")').next()
+jQuery('div.content-wrapper td:contains("Діючі речовини")').next()
+jQuery('p:contains("Взаємодія")').next()
