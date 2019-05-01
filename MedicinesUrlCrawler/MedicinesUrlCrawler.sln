@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicinesUrlCrawler", "MedicinesUrlCrawler\MedicinesUrlCrawler.csproj", "{A76D7E02-7674-4367-ABBE-9441DF112100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A76D7E02-7674-4367-ABBE-9441DF112100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76D7E02-7674-4367-ABBE-9441DF112100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76D7E02-7674-4367-ABBE-9441DF112100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76D7E02-7674-4367-ABBE-9441DF112100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {100AA551-7780-4DAE-9A7D-4427E2C8F98E}
+	EndGlobalSection
+EndGlobal
