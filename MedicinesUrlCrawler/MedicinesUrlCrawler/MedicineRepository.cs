@@ -22,7 +22,7 @@ namespace MedicinesUrlCrawler
 
         public async Task AddMedicine(Medicine medicine)
         {
-            await collection.InsertOneAsync(medicine);            
+            await collection.InsertOneAsync(medicine);
         }
 
         public async Task<int> GetMedicinesNumber()

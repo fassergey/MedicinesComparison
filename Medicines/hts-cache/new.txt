@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:08:24	148/148	---M-Z	200	added ('OK')	text/plain	etag:%22b8d91d-fc-49a24eb0f6f00%22	http://mozdocs.kiev.ua/robots.txt		(from )
+13:08:25	178/178	---M-Z	403	error ('forbidden')	text/html	date:Thu,%2009%20May%202019%2010:08:25%20GMT	http://mozdocs.kiev.ua/	F:/Projects/WORK/Epam/MedicinesComparison/Medicines/mozdocs.kiev.ua/index.html	(from )

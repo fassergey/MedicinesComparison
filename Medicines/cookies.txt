@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mozdocs.kiev.ua	TRUE	/	FALSE	1999999999	PHPSESSID	e86bbef975d67bd8191aea64f957a217
+
